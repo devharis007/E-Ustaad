@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "//E-Ustaad/static/css/main.089389fe.css",
+    "main.js": "//E-Ustaad/static/js/main.aa541507.js",
+    "static/js/787.5cba25cf.chunk.js": "//E-Ustaad/static/js/787.5cba25cf.chunk.js",
+    "static/media/b2.jpg": "//E-Ustaad/static/media/b2.4936d35678ce4820ae47.jpg",
+    "static/media/b1.jpg": "//E-Ustaad/static/media/b1.64f80ebb837e38910c65.jpg",
+    "static/media/b3.jpg": "//E-Ustaad/static/media/b3.d6351a36e9b77346e2cb.jpg",
+    "static/media/b4.jpg": "//E-Ustaad/static/media/b4.9719d4a878c9316cb15b.jpg",
+    "static/media/logo.png": "//E-Ustaad/static/media/logo.a489f360970c19a5aa9c.png",
+    "static/media/logo.svg": "//E-Ustaad/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "//E-Ustaad/index.html",
+    "main.089389fe.css.map": "//E-Ustaad/static/css/main.089389fe.css.map",
+    "main.aa541507.js.map": "//E-Ustaad/static/js/main.aa541507.js.map",
+    "787.5cba25cf.chunk.js.map": "//E-Ustaad/static/js/787.5cba25cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.089389fe.css",
+    "static/js/main.aa541507.js"
+  ]
+}
